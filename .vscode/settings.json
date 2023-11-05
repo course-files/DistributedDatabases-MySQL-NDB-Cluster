@@ -1,0 +1,34 @@
+{
+    "zenMode.hideLineNumbers": false,
+    "zenMode.centerLayout": true,
+    "zenMode.hideStatusBar": false,
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "aomondi@localhost:3306",
+            "username": "aomondi",
+            "database": "aomondi_lab1_transactions",
+            "askForPassword": true
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 33006,
+            "driver": "MySQL",
+            "name": "root@database-mysql-centralized(container):33006",
+            "username": "root",
+            "database": "mysql"
+        }
+    ]
+}
