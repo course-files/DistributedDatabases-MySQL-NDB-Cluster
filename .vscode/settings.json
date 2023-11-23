@@ -28,7 +28,35 @@
             "driver": "MySQL",
             "name": "root@database-mysql-centralized(container):33006",
             "username": "root",
-            "database": "mysql"
+            "database": "mysql",
+            "group": "Docker"
+        },
+        {
+            "server": "localhost",
+            "port": 8123,
+            "useHTTPS": false,
+            "database": "default",
+            "username": "default",
+            "password": "",
+            "tls": {},
+            "previewLimit": 50,
+            "driver": "ClickHouse",
+            "name": "ClickHouse DB - Data Engineering Lab",
+            "group": "Docker"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "root@db-mysql(container):3306",
+            "username": "root",
+            "database": "classicmodels",
+            "group": "Docker"
         }
     ]
 }
