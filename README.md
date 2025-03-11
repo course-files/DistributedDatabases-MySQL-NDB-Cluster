@@ -1,2 +1,20 @@
-# Required Lab Work Submission
-Please refer to the Lab Manual on Containerization available here for the detailed instructions: [https://elearning.strathmore.edu/course/view.php?id=3277](https://elearning.strathmore.edu/course/view.php?id=3277)
+# Lab: Replication and Partitioning in Distributed Databases using MySQL NDB Cluster
+
+| **Attribute**| Value |
+|---------------|---------------------------------------------------------|
+| **Group Name**| ? |
+| **Semester Duration**| 6<sup>th</sup> January - 12<sup>th</sup> April 2025 |
+
+## Lab Manual
+
+Please refer to the Lab Manual provided on Google Classroom for instructions.
+![image](https://github.com/user-attachments/assets/26c1d473-0b34-4ee8-8764-f82a8ca5cdba)
+
+## Main Concept
+
+![image](https://github.com/user-attachments/assets/183f8310-887a-42f4-b712-80d41a8b85fe)
+![image](https://github.com/user-attachments/assets/1a43b2a9-bd54-4689-a9d6-802f44f0bbaf)
+
+## Technology Stack and Process Flow
+
+![image](https://github.com/user-attachments/assets/4bd405b6-eeb4-4a50-b47d-9082faccee9a)
