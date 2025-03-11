@@ -8,7 +8,8 @@
 ## Lab Manual
 
 Please refer to the Lab Manual provided on Google Classroom for instructions.
-![image](https://github.com/user-attachments/assets/26c1d473-0b34-4ee8-8764-f82a8ca5cdba)
+![image](https://github.com/user-attachments/assets/6bc9cc46-da93-40f6-89f4-e53a7747f00e)
+
 
 ## Main Concept
 
