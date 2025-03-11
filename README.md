@@ -14,9 +14,8 @@ Please refer to the Lab Manual provided on Google Classroom for instructions.
 
 ## Main Concept
 
-![image](https://github.com/user-attachments/assets/183f8310-887a-42f4-b712-80d41a8b85fe)
-![image](https://github.com/user-attachments/assets/1a43b2a9-bd54-4689-a9d6-802f44f0bbaf)
+![image](https://github.com/user-attachments/assets/6cf6a154-efb1-461a-9b72-e60782f758ee)
 
 ## Technology Stack and Process Flow
 
-![image](https://github.com/user-attachments/assets/4bd405b6-eeb4-4a50-b47d-9082faccee9a)
+![image](https://github.com/user-attachments/assets/4c1d8b05-79b9-4577-a3be-ebf89b3c0df0)
