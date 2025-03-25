@@ -1,10 +1,10 @@
 # STEP 1. Create a directory to store the configuration files and data files for the MySQL NDB Cluster
 # Create the following directories:
-Folder 1: .../mysql/manager-node
-Folder 2: .../mysql/data-node-1
-Folder 3: .../mysql/data-node-2
-Folder 4: .../mysql/sql-node-1
-Folder 5: .../mysql/sql-node-2
+Folder 1: mysql/manager-node
+Folder 2: mysql/data-node-1
+Folder 3: mysql/data-node-2
+Folder 4: mysql/sql-node-1
+Folder 5: mysql/sql-node-2
 
 # STEP 2. Create a network to be used by the cluster
 # Execute the following command to create a network called “mysql-ndb-cluster” that uses the IP addresses 172.16.60.x.
