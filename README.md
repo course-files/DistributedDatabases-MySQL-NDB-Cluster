@@ -3,14 +3,12 @@
 | **Attribute**| Value |
 |---------------|---------------------------------------------------------|
 | **Group Name**| ? |
-| **Semester Duration**| 6<sup>th</sup> January - 12<sup>th</sup> April 2025 |
+| **Semester Duration**| 9<sup>th</sup> September - 2<sup>nd</sup> December 2025 |
 
 ## Lab Manual
 
 Please refer to the Lab Manual provided on Google Classroom for instructions.
 ![image](https://github.com/user-attachments/assets/98152d94-db0f-4383-9da1-30caff927c3e)
-
-
 
 ## Main Concept
 
